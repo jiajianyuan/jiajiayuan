@@ -2,6 +2,7 @@ git user.name
 git user.email
  :x
 xinde yici呵呵
+<<<<<<< HEAD
 大兄弟，传火不
 不了不了
 热热热
@@ -11,3 +12,10 @@ xinde yici呵呵
 rerererer
 shoubuliaole
 rerere
+
+yizizyizziiiz
+asdasdasd
+aaaa
+sssssss
+ddddddddd
+ffffff
